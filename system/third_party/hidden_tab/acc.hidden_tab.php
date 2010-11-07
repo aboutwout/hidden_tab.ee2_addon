@@ -1,5 +1,14 @@
 <?php
 
+/**
+* Hidden Tab accessory class
+*
+* @package		  hidden_tab-ee2_addon
+* @version			1.0
+* @author			  Wouter Vervloet <wouter@baseworks.nl>
+* @license			http://creativecommons.org/licenses/by-sa/3.0/
+*/
+
 class Hidden_tab_acc {
 
 	var $name		= 'Hidden Tab';
