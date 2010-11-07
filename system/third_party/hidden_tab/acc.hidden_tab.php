@@ -5,7 +5,7 @@ class Hidden_tab_acc {
 	var $name		= 'Hidden Tab';
 	var $id			= 'hidden_tab';
 	var $version		= '1.0';
-	var $description	= 'Have a hidden tab on your publish layout';
+	var $description	= 'Create a hidden tab on your publish layout';
 	var $sections		= array();
 
 	function set_sections() {
