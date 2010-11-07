@@ -1,13 +1,22 @@
 <?php
 
 /**
-* Hidden Tab accessory class
-*
-* @package		  hidden_tab-ee2_addon
-* @version			1.0
-* @author			  Wouter Vervloet <wouter@baseworks.nl>
-* @license			http://creativecommons.org/licenses/by-sa/3.0/
+* @package    Hidden Tab
+* @subpackage	ThirdParty
+* @category   Modules
+* @version		1.0
+* @author     Wouter Vervloet <wouter@baseworks.nl>
+* @copyright  Copyright (c) 2010, Baseworks
+* @license    http://creativecommons.org/licenses/by-sa/3.0/
+* 
+* This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported.
+* To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+* or send a letter to Creative Commons, 171 Second Street, Suite 300,
+* San Francisco, California, 94105, USA.
+* 
 */
+
+if ( ! defined('EXT')) { exit('Invalid file request'); }
 
 class Hidden_tab_acc {
 
